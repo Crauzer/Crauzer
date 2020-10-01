@@ -1,5 +1,3 @@
-Hi, my name's Crauzer. I'm a software developer and reverse engineer. I mostly work on modding tools for League of Legends among other things.
-
 Interested in:
 * 🎮 Game hacking
 * 📦 Compression
