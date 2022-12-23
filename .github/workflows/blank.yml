@@ -15,3 +15,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Prague
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
